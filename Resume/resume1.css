@@ -13,3 +13,6 @@ body {
              border: 2px solid black;
              border-collapse: collapse;
 }
+     div.c {
+             text-align: right;
+} 
