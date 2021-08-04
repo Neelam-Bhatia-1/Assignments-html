@@ -3,8 +3,14 @@ body {
 }
   div {
       border-radius: 20px;
+	  background-color:#ffcccc;
 }
-      #title {
+      # header{
+		  background-color: #F1F1F1;
+                text-align: center;  
+		   }
+	  
+	   #title {
       margin-left: 5%;
 }
 
