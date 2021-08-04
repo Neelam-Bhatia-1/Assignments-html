@@ -2,7 +2,7 @@ body {
 	   background: linear-gradient(to bottom left, #ccffcc 0%, #ffffff 100%);
 }
   div {
-      border-radius: 30px;
+      border-radius: 30px;-
 }
 	   #title {
       margin-left: 10%;
