@@ -1,0 +1,15 @@
+body {
+	background-color: #E0E0E0;
+}	
+     .Name{
+             color: Black;
+             margin: 20px;
+             padding: 20px;
+        }
+		.main {
+  text-align: center;
+}
+    table, th, td {
+             border: 2px solid black;
+             border-collapse: collapse;
+}
