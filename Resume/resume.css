@@ -3,14 +3,7 @@ body {
 }
   div {
       border-radius: 30px;
-	  background-color:#ffe6e6;
 }
-    #header {
-          height: 70px;
-          width: 100%;
-          background-color: #ffcccc;
-}
-	  
 	   #title {
       margin-left: 10%;
 }
