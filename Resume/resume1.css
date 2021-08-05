@@ -1,21 +1,17 @@
 body {
 	background-color:
 }	
-  .left {
-	       float: top-left;
-}
-  .right {
-          float: right;
+  .right{
+    float:right;
+	margin-bottom:10px;
 }
 
+.left{
+    float:left;
+	
+}
 
-   .main {
-          text-align: center;
-} 
     table, th, td {
              border: 2px solid black;
              border-collapse: collapse;
 }
-     div.c {
-             text-align: right;
-} 
