@@ -1,12 +1,17 @@
 body {
 	background-color:
 }	
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
   .right{
     float:right;
-	margin-bottom:10px;
+	
 }
 
-.left{
+  .left{
     float:left;
 	
 }
