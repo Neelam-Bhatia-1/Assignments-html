@@ -3,6 +3,15 @@ body {
   margin: 0;
 	
 }
+.hero-image {
+  background-image: url("/w3images/photographer.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
 #header {
   height: 100px;
@@ -10,14 +19,9 @@ body {
   background-color: #B0E0E6;
   position: fixed;
   z-index: 1;
+  
 }
-.stuff {
-  display: inline-block;
-  margin-top: 20x;
-  margin-left: 55px;
-  width: 75%;
-  height: 1000px;
-}
+
 html {
   box-sizing: border-box;
 }
