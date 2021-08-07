@@ -3,16 +3,6 @@ body {
   margin: 0;
 	
 }
-.hero-image {
-  background-image: url("/w3images/photographer.jpg");
-  background-color: #cccccc;
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
 #header {
   height: 100px;
   width: 100%;
@@ -21,6 +11,17 @@ body {
   z-index: 1;
   
 }
+
+.hero-image {
+  background-image: url(images/couple-2.jpg);
+  background-color: ;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 
 html {
   box-sizing: border-box;
