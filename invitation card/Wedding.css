@@ -6,7 +6,7 @@ body {
 #header {
   height: 100px;
   width: 100%;
-  background-color: #B0E0E6;
+  background-color:#E0FFFF;
   position: fixed;
   z-index: 1;
   
@@ -87,3 +87,19 @@ html {
     display: block;
   }
 }
+   .date1{
+	   float: left;
+	   margin: 130px;
+   }
+  .date2{
+	  float:right;
+	  margin:
+  }
+  .date3{
+	  float:left;
+	  margin:
+  }
+  .date4{
+	  float:right;
+	  margin:
+  }
