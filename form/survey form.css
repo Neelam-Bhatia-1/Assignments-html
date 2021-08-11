@@ -1,0 +1,28 @@
+body {
+	
+}
+div.a {
+  font-size: 300%;
+  text-align: center;
+  padding-top: 1%;
+}
+div.b {
+  font-size: 150%;
+  text-align: center;
+  padding-top: 5%;
+}
+div.c {
+  padding-top: 3%;
+}
+input[type=text], select {
+  width: 30%;
+  padding: 8px 12px;
+  margin: 4px 0;
+  display: inline-block;
+}
+input[type=Number], select {
+  width: 15%;
+  padding: 8px 12px;
+  margin: 4px 0;
+  display: inline-block;
+}
