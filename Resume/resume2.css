@@ -1,16 +1,26 @@
 body {
-	background: linear-gradient(to bottom left, #ccffcc 0%, #ffffff 100%;
+	background:;
 }	
-
+  #grad1 {
+  background-image: linear-gradient(MintCream, Gray);
+ margin-left:150px;
+ margin-right:150px;
+ background-color: white;
+ padding:80px;
+  }
+  
+  
+  #grad2 {
+	  
+  }
+  
  div.b {
   text-align: left;
 }
- 
     table, th, td {
              border: 2px solid black;
              border-collapse: collapse;
 }
 .right {
-  text-align: left;
-
+  text-align: right;
 }
